@@ -24,7 +24,7 @@ Code accompanying the paper: [M. Sipper, "Classy Ensemble: A Novel Ensemble Algo
 
 Citations are always appreciated 😊:
 ```
-@article{eckity2022,
+@article{sipper2023classy,
     author = {Sipper, Moshe},
     title = {Classy Ensemble: A Novel Ensemble Algorithm for Classification},
     publisher = {arXiv},
