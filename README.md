@@ -1,8 +1,6 @@
 # Classy Ensemble
 Classy Ensemble: A Novel Ensemble Algorithm for Classification
 
-# High Per Parameter
-
 Code accompanying the paper: [M. Sipper, "Classy Ensemble: A Novel Ensemble Algorithm for Classification"](https://arxiv.org/).
 
 * `main.py`: main module for running ML models
