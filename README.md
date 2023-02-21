@@ -1,4 +1,4 @@
-# classy-ensemble
+# Classy Ensemble
 Classy Ensemble: A Novel Ensemble Algorithm for Classification
 
 # High Per Parameter
