@@ -27,7 +27,6 @@ Citations are always appreciated 😊:
     title = {Classy Ensemble: A Novel Ensemble Algorithm for Classification},
     publisher = {arXiv},
     year = {2023},
-    url = {https://arxiv.org/},
-    doi = {},
+    url = {https://arxiv.org/abs/2302.10580},
 }
 ```
