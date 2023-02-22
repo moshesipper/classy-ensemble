@@ -1,7 +1,7 @@
 # Classy Ensemble
 Classy Ensemble: A Novel Ensemble Algorithm for Classification
 
-Code accompanying the paper: [M. Sipper, "Classy Ensemble: A Novel Ensemble Algorithm for Classification"]([https://arxiv.org/](https://arxiv.org/abs/2302.10580)).
+Code accompanying the paper: [M. Sipper, "Classy Ensemble: A Novel Ensemble Algorithm for Classification"](https://arxiv.org/abs/2302.10580).
 
 * `main.py`: main module for running ML models
 * `main_dl.py`: main module for running DL models
